@@ -13,7 +13,7 @@ Proyectos creados con Arduino UNO R3 Elegoo
 
 Proyectos variados sobre Arduino.
 
-## Links :computer: Utilizado
+## Links :computer:
 
 https://www.youtube.com/watch?v=8tDlmz1dNlg  :movie_camera:
 https://www.youtube.com/watch?v=U0Uw3cApQVw  :movie_camera:
