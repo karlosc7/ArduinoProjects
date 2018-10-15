@@ -12,7 +12,7 @@ Proyectos creados con Arduino UNO R3 Elegoo
   - [Links](#links)
 
 ## Introducción
-![GitHub Logo](/src/Img/arduino.jpeg) 
+![GitHub Logo](/arduino.jpg) 
 
 Proyectos variados sobre Arduino.
 
